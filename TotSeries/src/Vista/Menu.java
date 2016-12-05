@@ -62,6 +62,7 @@ public class Menu {
         MOSTRAR_EPISODI,
         REPRODUIR,
         SORTIR
+        me cago en tu estampa
     };
     static private enum uOpcions {
         BSCAR_USUARI,
